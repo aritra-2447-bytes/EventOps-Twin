@@ -1,0 +1,6 @@
+{
+  "name": "EventOps Twin",
+  "description": "Event-driven congestion prediction and police deployment command center dashboard for planned and unplanned incident management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
