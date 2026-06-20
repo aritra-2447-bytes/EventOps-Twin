@@ -270,3 +270,18 @@ ___
 
 The reinforcement loop prepares edge datasets for future optimization cycles by continuously collecting operational feedback and deployment outcomes.
 
+## 🚢 Team Members
+
+## 🤝 Collaborators
+
+**Aritra Paul** — <a href="https://github.com/aritra-2447-bytes">
+<img src="https://cdn.simpleicons.org/github/white" width="20" alt="GitHub"/>
+</a>
+
+**Swarnava Bag** — <a href="https://github.com/swarnavabag">
+<img src="https://cdn.simpleicons.org/github/white" width="20" alt="GitHub"/>
+</a>
+
+**Skyy_07** — <a href="https://github.com/USERNAME_HERE">
+<img src="https://cdn.simpleicons.org/github/white" width="20" alt="GitHub"/>
+</a>
