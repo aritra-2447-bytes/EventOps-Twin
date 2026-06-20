@@ -12,7 +12,7 @@ app.use(express.json({ limit: "50mb" }));
 const PORT = 3000;
 
 // Initialize Gemini Client
-const geminiApiKey = process.env.GEMINI_API_URL || ``;
+const geminiApiKey = process.env.GEMINI_API_KEY;
 let ai: GoogleGenAI | null = null;
 if (geminiApiKey) {
   ai = new GoogleGenAI({
